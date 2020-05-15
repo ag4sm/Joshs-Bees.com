@@ -1,0 +1,93 @@
+  * {
+	 margin-bottom: 0;
+	 padding-bottom: 0;
+  }
+  
+  html {
+    font-size: 62.5%;
+	height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+	height: 100%;
+    font-size: 1.3rem;
+    color: #353535;
+	background: #C79848; 
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+  }
+  
+  header {
+	background-image: url("/images/pulled-comb.png");
+	padding-top: 1rem;
+	padding-bottom: 2rem;
+	width: 100%;
+  }
+  
+  #footer {
+	width: 100%;
+	height: 50px;
+	padding-bottom: 0;
+	position: relative;
+	text-align: center;
+	background-color: #ff8000;
+	color: white;
+  }
+
+  h1,h3 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+	color: white;
+  }
+
+  h1 {
+    margin: 0rem 0 1rem;
+    font-size: 3rem;
+	color: white;
+  }
+
+  h3 {
+    font-weight: normal;
+    font-size: 1.4rem;
+	font-weight: bold
+  }
+  
+  h6 {
+	padding-top: 10px;
+  }
+  
+  img {
+	  padding: 5px;
+	  max-width: 300px;
+	  height: auto;
+  }
+  
+  p {
+	margin: 1rem;
+	color: white;
+  }
+	  
+  .clear {
+    clear: both;
+  }
+  
+  #logtitle {
+	margin-top: 5px;
+	margin-bottom: 10px;
+  }
+	
+  .ui-accordion .ui-accordion-content {
+    background-color: transparent;
+  }
+
+  .ui-accordion .log{
+	background:none;
+	background-color: #5C524C; 
+	margin-bottom: 3px;
+	color:white;
+  }
