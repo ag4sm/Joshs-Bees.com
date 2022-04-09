@@ -91,3 +91,7 @@
 	margin-bottom: 3px;
 	color:white;
   }
+
+  ul {
+    list-style-type: none;
+  }
